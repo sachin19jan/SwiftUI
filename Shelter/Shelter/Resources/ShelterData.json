@@ -1,0 +1,154 @@
+[{
+    "breedName": "Labrador",
+    "dogName": "Coco",
+    "ageInMonths": 3,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": false,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 40.0,
+        "weight": 10.0
+    },
+    "imageName": "Labrador",
+    "description": "Coco needs all the attention, she loves to be around people, even at night, she will not sleep without you being around. She understands your emotions and plays with you when you are in good mood. She can understand up to 80-100 words you speak. She is childlike but can help you with some small task if you train her well."
+},
+{
+    "breedName": "husky",
+    "dogName": "Casper",
+    "ageInMonths": 6,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 35.2,
+        "weight": 35.0
+    },
+    "imageName": "husky",
+    "description": "Casper looks majestic in just 8 weeks but they are one of the most adorable dogs as they are friendly….deceptive to their looks, very loving and can be very jealousy too.  He has an incredible sixth sense…coz he knows you have arrived even before you reach your door steps.  Casper can communicate with you …by grabbing your attention …poo time or food time or even there is a stranger."
+    
+},
+{
+    "breedName": "Rottweiler",
+    "dogName": "Jessy",
+    "ageInMonths": 12,
+    "city": "Mumbai",
+    "isAvailableForAdoption": true,
+    "isFavorite": false,
+    "ownersEmail": "mumbaiShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 55.0,
+        "weight": 40.1
+    },
+    "imageName": "Rottweiler",
+    "description": "Jessy is well trained to obey and respect people and thus she is a great family protector which is true with her “wait and watch” attitude when guests / strangers visit your home."
+},
+{
+    "breedName": "pug",
+    "dogName": "Rosie",
+    "ageInMonths": 2,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": false,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 20.2,
+        "weight": 8.0
+    },
+    "imageName": "pug",
+    "description": "Go with the name and not with the breed she belongs to….coz Rosie shows the same expression as you …when happy she is happy…when curious…she too is curious and must capture her expression of being surprised…oh she is just adorable😍."
+    
+},
+{
+    "breedName": "ridgeback-rhodesian",
+    "dogName": "Caesor",
+    "ageInMonths": 24,
+    "city": "Mumbai",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "mumbaiShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 50.5,
+        "weight": 30.2
+    },
+    "imageName": "ridgeback-rhodesian",
+    "description": "Caesar is a great family protector…his looks can scare away not just the strangers but sometimes the guests also.  He can take good care of small children and cats too if bought up together."
+},
+{
+    "breedName": "frise-bichon",
+    "dogName": "Ocean",
+    "ageInMonths": 6,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 25.2,
+        "weight": 20.2
+    },
+    "imageName": "frise-bichon",
+    "description": "Ocean looks like a soft toy with his fluffy white coat and more so due to his structure coz they are a small breed dogs. Ocean can be mischievous at times yet very loving and he gets hyper when he knows that its time for an morning walk….He can be your best companion!"
+    
+},
+{
+    "breedName": "pembroke",
+    "dogName": "Toto",
+    "ageInMonths": 6,
+    "city": "Mumbai",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "mumbaiShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 50.2,
+        "weight": 35.5
+    },
+    "imageName": "pembroke",
+    "description": "If you want to stay healthy with some good morning walk, jog and play…then its time that you adopt Toto.  Toto is full of energy, he a great athlete and he can chase the ball at a great speed…so you can play with him thus complete your morning exercise.Toto is very vigilant when he finds a stranger and barks strongly chasing them away but is very friendly with the family & the Guests."
+},
+{
+    "breedName": "lhasa",
+    "dogName": "Ginger",
+    "ageInMonths": 4,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 30.5,
+        "weight": 15.5
+    },
+    "imageName": "lhasa",
+    "description": "Conterory to her structure, Ginger can be a great guard and can keep strangers at by with her sharp and loud bark.  She is very affectionate and is a great companion and these traits of her, will draw you back home soon from work😀"
+},
+{
+    "breedName": "spaniel-brittany",
+    "dogName": "Jaz",
+    "ageInMonths": 15,
+    "city": "Bangalore",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "blrShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 28.4,
+        "weight": 25.5
+    },
+    "imageName": "spaniel-brittany",
+    "description": "Quick, playful, sensitive and responsive is how Jaz can be introduced.  All he needs is your love, a little time to play with him every day for his mental health and physical growth which eventually will benefit your health too😄."
+},
+{
+    "breedName": "bulldog",
+    "dogName": "Cherpy",
+    "ageInMonths": 6,
+    "city": "Mumbai",
+    "isAvailableForAdoption": true,
+    "isFavorite": true,
+    "ownersEmail": "mumbaiShelter@icloud.com",
+    "bodyMeasurements": {
+        "height": 30.5,
+        "weight": 20.3
+    },
+    "imageName": "bulldog-english",
+    "description": "Cherpy is very loving, affectionate, courageous but can be Stubborn at times especially when its the shower time…she refuses to entire the shower.  With her ability to understand your emotions, she know how to greet you in all your mood swings and she is real stress buster."
+}
+]

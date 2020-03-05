@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EAD5DF91-07B2-43BE-9E19-55B09B7A8708"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C55C0E66-E91E-407E-9EC3-20033C81A1C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shelter/NewPostView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F257129F-90AE-47F4-8081-7D75BD8885D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shelter/PostBrowseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "465F3F82-30CD-4B48-9ABD-EABD4ECABEB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shelter/PostBrowseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "addButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0109B8B6-D7C9-4788-A0F9-3F24B31D14A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shelter/PostBrowseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0109B8B6-D7C9-4788-A0F9-3F24B31D14A4 - 588368bc49ea40cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0 in closure #1 (Shelter.DogPost) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0, Shelter.PostDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A where A1: SwiftUI.View&gt;(trailing: A1) -&gt; some&gt;&gt;.0 in Shelter.PostBrowseView.body.getter : some"
+                  moduleName = "Shelter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachinbhardwaj/Desktop/Shelter/Shelter/PostBrowseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "0109B8B6-D7C9-4788-A0F9-3F24B31D14A4 - 5d56c53f68ff5e82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of Shelter.PostBrowseView.favoriteMenuButton(for: Shelter.DogPost) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of Shelter.PostBrowseView.deleteMenuButton(for: Shelter.DogPost) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0 in closure #1 (Shelter.DogPost) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0, Shelter.PostDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A where A1: SwiftUI.View&gt;(trailing: A1) -&gt; some&gt;&gt;.0 in Shelter.PostBrowseView.body.getter : some"
+                  moduleName = "Shelter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachinbhardwaj/Desktop/Shelter/Shelter/PostBrowseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "209">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78936E59-E90C-4E0F-BEC1-775D22A38A5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shelter/PostBrowseView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "78936E59-E90C-4E0F-BEC1-775D22A38A5C - 1c61672fde6cdd00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Shelter.DogPost) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0, Shelter.PostDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A where A1: SwiftUI.View&gt;(trailing: A1) -&gt; some&gt;&gt;.0 in Shelter.PostBrowseView.body.getter : some"
+                  moduleName = "Shelter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachinbhardwaj/Desktop/Shelter/Shelter/PostBrowseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "78936E59-E90C-4E0F-BEC1-775D22A38A5C - 588368bc49ea40cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0 in closure #1 (Shelter.DogPost) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.contextMenu&lt;A where A1: SwiftUI.View&gt;(menuItems: () -&gt; A1) -&gt; some&gt;&gt;.0, Shelter.PostDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.navigationBarItems&lt;A where A1: SwiftUI.View&gt;(trailing: A1) -&gt; some&gt;&gt;.0 in Shelter.PostBrowseView.body.getter : some"
+                  moduleName = "Shelter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sachinbhardwaj/Desktop/Shelter/Shelter/PostBrowseView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "227">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
